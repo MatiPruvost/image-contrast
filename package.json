@@ -1,0 +1,14 @@
+{
+  "name": "image-contrast",
+  "version": "0.0.1",
+  "description": "Change the contrast to a group of images",
+  "main": "index.js",
+  "author": "Matías Pruvost",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "commander": "^2.9.0",
+    "gm": "^1.20.0",
+    "node-dir": "^0.1.10"
+  }
+}
