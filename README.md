@@ -3,13 +3,13 @@
 image-contrast helps you to apply contrast in a group of images automatically.
 
 ## Requisites
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Node](https://nodejs.org/en/download/)
 
 ## Installation
 
 Clone the repository:
-- `$ git clone image-contrast`
+- `$ git clone git@github.com:MatiPruvost/image-contrast.git`
 
 Install dependencies:
 - `$ npm install`
